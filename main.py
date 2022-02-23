@@ -20,7 +20,7 @@ def Calculate(firstSide, secondSide):
         intLowest = int(firstSide) - int(secondSide) + 1
         intHighest = int(firstSide) + int(secondSide) - 1
         stringLowest = str(intLowest)
-        stringHighest = str(intHightest)
+        stringHighest = str(intHighest)
 
         # Output
         if intLowest == intHighest:
